@@ -1,0 +1,69 @@
+:adventuretime	| (• ◡•)| (❍ᴥ❍ʋ)	en-US
+:ahh	(◉ ᗜ ◉)	en-US
+:belmont	❀=========≡눈٩(`皿´҂)ง	en-US
+:biceps	ᕦ(  •_• )ᕤ	en-US
+:bird	( ◉)⊃	en-US
+:blowkiss	৲(⌒૩⌒)৴♡*৹	en-US
+:controller	[+..••]	en-US
+:curious	^•ᴥ•^	en-US
+:cute	(⌒‿⌒ʃƪ)	en-US
+:dealwithit	( ◉_◉)( ◉_◉)>⌐■-■( ⌐■-■)	en-US
+:deuces	✌︎(◉ω◉)✌︎	en-US
+:disapprove	( ಠ_ಠ)	en-US
+:dope	ヘ(◉ω◉ ヘ)	en-US
+:dream	｡･*･:≡(:3 ) =͟͟͞͞ (¦3[▓▓]	en-US
+:facepalm	(－‸ლ)	en-US
+:fireball	∩ಠ益ಠ)⊃━━     ─=≡ΣO))	en-US
+:flex	ᕦ(  •̀益•́ )ᕤ	en-US
+:gimme	(づ ◉‿◉)づ	en-US
+:happy	(◉‿◉)	en-US
+:hide	|_◉)	en-US
+:hug	⊂(◉‿◉)⊃	en-US
+:idk	└(・-・)┘	en-US
+:kaomoji	∩◉_◉)⊃━━☆ﾟ.*ᵏᵃᵒᵐᵒʲᶦ･｡ﾟ	en-US
+:kiss	(⌒ε⌒ʃƪ)	en-US
+:laugh	(´つ^ヮ^⊂)	en-US
+:lenny	( ͡° ͜ʖ ͡°)	en-US
+:armylenny	( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ͜ʖ ͡°)ʖ ͡°)	en-US
+:madd	୧(ಠ益ಠ)୨	en-US
+:madpunch	(งಠ益ಠ)ง	en-US
+:mhm	( ￢_￢)	en-US
+:mlerm	(◉ ڡ ◉)	en-US
+:music	(˘ε˘ ง)♪	en-US
+:peacee	✌︎(◉‿◉)	en-US
+:peaceout	✌︎(  •̀益•́ )✌︎	en-US
+:peek	(⊃‿⊂)	en-US
+:pig	(ˆ(oo)ˆ)	en-US
+:punch	(ง •̀_•́)ง	en-US
+:pupper	•ᴥ•	en-US
+:rain	、ヽ｀、ヽ｀个o(･_･｡)｀ヽ、｀ヽ、	en-US
+:run	ε=ε=ε=ε=┌( ◉_◉)┘	en-US
+:sadd	( ಡ_ಡ)	en-US
+:sadmad	( ಡ益ಡ)	en-US
+:sadrain	、ヽ｀、ヽ｀个o( ಡ_ಡ)｀ヽ、｀ヽ、	en-US
+:sadspider	/╲/\( ಡಡ_ಡಡ )/\╱\ 	en-US
+:sexytime	∠( ᐛ 」∠)＿	en-US
+:shrug	¯\(◉‿◉)/¯	en-US
+:sleep	(¦ꒉ[▓▓]	en-US
+:slime	༼つಠ益ಠ༽つ ─=≡ΣO))	en-US
+:armyslime	༼ ºل͟º ༼ ºل͟º ༼ ºل͟º ༽ ºل͟º ༽ ºل͟º ༽	en-US
+:sparkle	(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧	en-US
+:spider	/╲/\( ••̀ ω ••́ )/\╱\	en-US
+:success	(   •̀ᴗ•́)و	en-US
+:sword	╰( ◉ヮ◉)つ¤=[]————	en-US
+:tableback	┬─┬ ノ(◉_◉ ノ)	en-US
+:tableflip	(╯ಠ益ಠ)╯︵ ┻━┻	en-US
+:that	(☞ ◉ヮ◉)☞	en-US
+:thelook	ಠ	en-US
+:this	☜(◉ヮ◉ ☜)	en-US
+:tired	( ⌒｡⌒)ƶƵ	en-US
+:uhh	ʅʕ•ᴥ•ʔʃ	en-US
+:wake	(:3 っ)3≡･◦∴*+◦º.+*.•。[][▓▓]	en-US
+:awave	(◉‿◉)ﾉ	en-US
+:weeow	(〜˘ ɜ˘)〜	en-US
+:what	(⊙_⊙)	en-US
+:whistle	( ˘ ɜ˘) ♬♪♫	en-US
+:whoops	(⁄•⁄ω⁄•⁄)	en-US
+:wink	( ◉ o⌒)	en-US
+:wizard	∩◉_◉)⊃━━☆ﾟ.*･｡ﾟ	en-US
+:yuno	ლ( ಠ益ಠ)ლ	en-US

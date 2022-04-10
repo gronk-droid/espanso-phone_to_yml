@@ -2,11 +2,11 @@ name: kaomoji
 parent: default
 
 matches:
+  - trigger: ":adventuretime"
+    replace: "| (• ◡•)| (❍ᴥ❍ʋ)"
+
   - trigger: ":ahh"
     replace: "(◉ ᗜ ◉)"
-
-  - trigger: ":bed"
-    replace: "[][▓▓]"
 
   - trigger: ":belmont"
     replace: "❀=========≡눈٩(`皿´҂)ง"
@@ -30,7 +30,7 @@ matches:
     replace: "(⌒‿⌒ʃƪ)"
 
   - trigger: ":dealwithit"
-    replace: "( ◉_◉)( ◉_◉)>⌐■-■(⌐■_■)"
+    replace: "( ◉_◉)( ◉_◉)>⌐■-■( ⌐■-■)"
 
   - trigger: ":deuces"
     replace: "✌︎(◉ω◉)✌︎"
@@ -43,9 +43,6 @@ matches:
 
   - trigger: ":dream"
     replace: "｡･*･:≡(:3 ) =͟͟͞͞ (¦3[▓▓]"
-
-  - trigger: ":eye"
-    replace: "◉"
 
   - trigger: ":facepalm"
     replace: "(－‸ლ)"
@@ -63,7 +60,7 @@ matches:
     replace: "(◉‿◉)"
 
   - trigger: ":hide"
-    replace: "_◉)"
+    replace: "|_◉)"
 
   - trigger: ":hug"
     replace: "⊂(◉‿◉)⊃"
@@ -83,10 +80,10 @@ matches:
   - trigger: ":lenny"
     replace: "( ͡° ͜ʖ ͡°)"
 
-  - trigger: ":lennyarmy"
+  - trigger: ":armylenny"
     replace: "( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ͜ʖ ͡°)ʖ ͡°)"
 
-  - trigger: ":mad"
+  - trigger: ":madd"
     replace: "୧(ಠ益ಠ)୨"
 
   - trigger: ":madpunch"
@@ -101,7 +98,7 @@ matches:
   - trigger: ":music"
     replace: "(˘ε˘ ง)♪"
 
-  - trigger: ":peace"
+  - trigger: ":peacee"
     replace: "✌︎(◉‿◉)"
 
   - trigger: ":peaceout"
@@ -125,7 +122,7 @@ matches:
   - trigger: ":run"
     replace: "ε=ε=ε=ε=┌( ◉_◉)┘"
 
-  - trigger: ":sad"
+  - trigger: ":sadd"
     replace: "( ಡ_ಡ)"
 
   - trigger: ":sadmad"
@@ -135,7 +132,7 @@ matches:
     replace: "、ヽ｀、ヽ｀个o( ಡ_ಡ)｀ヽ、｀ヽ、"
 
   - trigger: ":sadspider"
-    replace: "/╲/\( ಡಡ_ಡಡ )/\╱\"
+    replace: "/╲/\( ಡಡ_ಡಡ )/\╱\ "
 
   - trigger: ":sexytime"
     replace: "∠( ᐛ 」∠)＿"
@@ -149,7 +146,7 @@ matches:
   - trigger: ":slime"
     replace: "༼つಠ益ಠ༽つ ─=≡ΣO))"
 
-  - trigger: ":slimearmy"
+  - trigger: ":armyslime"
     replace: "༼ ºل͟º ༼ ºل͟º ༼ ºل͟º ༽ ºل͟º ༽ ºل͟º ༽"
 
   - trigger: ":sparkle"
@@ -188,11 +185,8 @@ matches:
   - trigger: ":wake"
     replace: "(:3 っ)3≡･◦∴*+◦º.+*.•。[][▓▓]"
 
-  - trigger: ":wave"
+  - trigger: ":awave"
     replace: "(◉‿◉)ﾉ"
-
-  - trigger: ":waves"
-    replace: "°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸"
 
   - trigger: ":weeow"
     replace: "(〜˘ ɜ˘)〜"
@@ -215,5 +209,3 @@ matches:
   - trigger: ":yuno"
     replace: "ლ( ಠ益ಠ)ლ"
 
-  - trigger: "pilcrow"
-    replace: "¶"
