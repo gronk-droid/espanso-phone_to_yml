@@ -8,6 +8,15 @@ matches:
   - trigger: ":ahh"
     replace: "(◉ ᗜ ◉)"
 
+  - trigger: ":armylenny"
+    replace: "( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ͜ʖ ͡°)ʖ ͡°)"
+
+  - trigger: ":armyslime"
+    replace: "༼ ºل͟º ༼ ºل͟º ༼ ºل͟º ༽ ºل͟º ༽ ºل͟º ༽"
+
+  - trigger: ":awave"
+    replace: "(◉‿◉)ﾉ"
+
   - trigger: ":belmont"
     replace: "❀=========≡눈٩(`皿´҂)ง"
 
@@ -22,9 +31,6 @@ matches:
 
   - trigger: ":controller"
     replace: "[+..••]"
-
-  - trigger: ":curious"
-    replace: "^•ᴥ•^"
 
   - trigger: ":cute"
     replace: "(⌒‿⌒ʃƪ)"
@@ -80,14 +86,8 @@ matches:
   - trigger: ":lenny"
     replace: "( ͡° ͜ʖ ͡°)"
 
-  - trigger: ":armylenny"
-    replace: "( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ͜ʖ ͡°)ʖ ͡°)"
-
   - trigger: ":madd"
     replace: "୧(ಠ益ಠ)୨"
-
-  - trigger: ":madpunch"
-    replace: "(งಠ益ಠ)ง"
 
   - trigger: ":mhm"
     replace: "( ￢_￢)"
@@ -110,10 +110,16 @@ matches:
   - trigger: ":pig"
     replace: "(ˆ(oo)ˆ)"
 
-  - trigger: ":punch"
+  - trigger: ":punchh"
     replace: "(ง •̀_•́)ง"
 
-  - trigger: ":pupper"
+  - trigger: ":punchmad"
+    replace: "(งಠ益ಠ)ง"
+
+  - trigger: ":puppercurious"
+    replace: "^•ᴥ•^"
+
+  - trigger: ":pupperr"
     replace: "•ᴥ•"
 
   - trigger: ":rain"
@@ -146,9 +152,6 @@ matches:
   - trigger: ":slime"
     replace: "༼つಠ益ಠ༽つ ─=≡ΣO))"
 
-  - trigger: ":armyslime"
-    replace: "༼ ºل͟º ༼ ºل͟º ༼ ºل͟º ༽ ºل͟º ༽ ºل͟º ༽"
-
   - trigger: ":sparkle"
     replace: "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
 
@@ -170,9 +173,6 @@ matches:
   - trigger: ":that"
     replace: "(☞ ◉ヮ◉)☞"
 
-  - trigger: ":thelook"
-    replace: "ಠ"
-
   - trigger: ":this"
     replace: "☜(◉ヮ◉ ☜)"
 
@@ -184,9 +184,6 @@ matches:
 
   - trigger: ":wake"
     replace: "(:3 っ)3≡･◦∴*+◦º.+*.•。[][▓▓]"
-
-  - trigger: ":awave"
-    replace: "(◉‿◉)ﾉ"
 
   - trigger: ":weeow"
     replace: "(〜˘ ɜ˘)〜"
